@@ -1,3 +1,3 @@
-# My github page 
+# My GitHub page 
 
-This code should not be seeing by anybody, it's hacked and terrible 😆.
+Nobody should see this code, it's hacked and terrible 😆.
