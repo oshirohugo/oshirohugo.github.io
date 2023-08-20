@@ -75,6 +75,25 @@ p {
     }
 }
 
+@media screen and (max-width: 767px) {
+    :root {
+        --pixel-size: 4;
+    }
+    .character {
+        margin: 2em auto 0 auto;
+    }
+    p {
+        max-width: 100%;
+        font-size: 1em;
+    }
+    h1 {
+        font-size: 1.5em;
+    }
+    body footer {
+        padding: 0;
+    }
+}
+
 footer {
     display: flex;
     justify-content: center;
